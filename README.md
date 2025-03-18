@@ -1,3 +1,94 @@
+# CoolPoses Camera User Agreement
+
+## 1. Introduction to the Agreement
+Welcome to use the CoolPoses Camera application (hereinafter referred to as the "Application"). This agreement is a legal agreement between you and the developer of the Application (hereinafter referred to as "us") regarding the use of the Application. By downloading, installing, or using the Application, you confirm that you have read, understood, and agreed to all the terms of this agreement. If you do not agree with any of the terms of this agreement, please do not download, install, or use the Application.
+
+## 2. Service Description
+The CoolPoses Camera is an application that provides reference templates for photography poses, aiming to help users achieve better photography results. The Application offers the following services:
+- Reference to basic photography pose templates
+- Various types of pose combinations (individual, couple, group, etc.)
+- Upload of custom pose templates (for paid users only)
+- Multilingual support
+
+## 3. User Rights and Limitations
+### 3.1 User Rights
+- You have the right to use the services provided by the Application on the premise of complying with this agreement.
+- You have the right to use the functions of the corresponding level according to your subscription situation.
+- You have the right to stop using the Application at any time.
+
+### 3.2 User Limitations
+- You shall not use the Application for any illegal purposes.
+- You shall not attempt reverse engineering, hacking, or modify the Application in any other way.
+- You shall not circumvent any technical limitations or security measures of the Application.
+- You shall not distribute, lease, lend, or transfer the Application to others.
+- You shall not use the Application to infringe upon the privacy rights or other legitimate rights and interests of others.
+
+## 4. Subscription Terms
+### 4.1 Subscription Types
+The Application offers the following subscription types:
+- **Monthly Membership**: Pay monthly with automatic renewal.
+- **Annual Membership**: Pay annually with automatic renewal.
+- **Lifetime Membership**: One-time payment, valid permanently.
+
+### 4.2 Renewal Rules
+- Monthly and annual subscriptions will be automatically renewed, unless you cancel at least 24 hours before the end of the current cycle.
+- The renewal fee will be charged through your iTunes account within 24 hours before the end of the current subscription period.
+- You can go to "Settings" > "Apple ID" > "Subscriptions" on your iPhone or iPad, and select CoolPoses Camera to manage or cancel the subscription.
+
+### 4.3 Price Changes
+- If there are any price changes, we will notify you in advance.
+- The price changes will take effect in the next subscription cycle. You can cancel the subscription before the changes take effect to avoid the new price from taking effect.
+
+### 4.4 Refund Policy
+- All purchases are subject to the refund policy of the Apple App Store.
+- If you need a refund, please apply through the Apple Support Center. The developer cannot directly handle refund requests.
+- Virtual goods and subscription content generally do not support refunds once accessed.
+- If you encounter technical problems that prevent you from using the functions, please contact our support team first.
+
+## 5. Intellectual Property Rights
+### 5.1 Ownership of the Application
+All rights of the Application and its content (including but not limited to text, images, pose templates, icons, code, etc.) belong to us. This agreement does not grant you any intellectual property rights regarding the Application.
+
+### 5.2 User Content
+- When you upload a custom pose template, you retain the ownership of the content, but you grant us a non-exclusive, global, royalty-free license to allow us to use, modify, and display the content during the provision of services.
+- The content you upload shall not infringe upon the rights and interests of any third party.
+
+## 6. Disclaimer
+### 6.1 Service Guarantee
+- We will make every effort to ensure the normal operation of the Application, but we cannot guarantee that the service will not be interrupted or be completely free of errors.
+- The Application is provided "as is", without any express or implied warranties.
+
+### 6.2 Limitation of Liability
+- To the maximum extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages resulting from the use or inability to use the Application.
+
+## 7. Privacy Policy
+We value your privacy. For information on how we collect, use, and protect your personal information, please refer to our [Privacy Policy](https://yaoyiheng.github.io/Privacy-Policy/), which forms a part of this agreement.
+
+The Application only collects the necessary information for providing services:
+- **Camera Access**: For taking photos and displaying templates.
+- **Photo Library Access**: For saving photos and selecting custom templates.
+- **Purchase Records**: For verifying the subscription status.
+
+We will not collect any of your personal identification information or use your information for purposes unrelated to the services.
+
+## 8. Modification and Termination of the Agreement
+### 8.1 Agreement Modification
+- We reserve the right to modify this agreement at any time.
+- The modified agreement will be published within the Application or on the website and will take effect upon publication.
+- Continuing to use the Application will be deemed as your acceptance of the modified agreement.
+
+### 8.2 Service Termination
+- We reserve the right to suspend or terminate the service at any time according to our own judgment.
+- You can stop using the Application and delete it at any time.
+- The rights and benefits of the lifetime membership are valid for the life cycle of the Application, as long as the Application exists and is maintained by us.
+
+## 9. Governing Law
+This agreement is governed by and construed in accordance with the laws of the People's Republic of China.
+
+## 10. Contact Us
+If you have any questions or suggestions about this agreement, or need to report any violations of this agreement, please contact us in the following ways:
+- **Email**: [yu1117@vip.qq.com]
+--- 
 # CoolPoses 相机用户协议
 
 ## 1. 协议简介
